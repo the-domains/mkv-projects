@@ -4,22 +4,8 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:54:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[3D Printed Bitcoin NFC Tags loading and spending]]></title>
-            <description><![CDATA[<article><h1>3D Printed Bitcoin NFC Tags loading and spending</h1><p>How to produce, load and spend custom DIY cheap NFC 3D printed bitcoin tags/coins - Unexpensive - DIY - Fun Good as gift for friends or for conference/company/exchange entry Bridges the virtual to the physical world. See the project files / instructions on: - Github: https://github.com/makevoid/3d_printed_nfc_bitcoins - Thingiverse: www.thingiverse.com/thing:706011 Enjoy!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b74de8505481daf822a0157bc922b8356babd9d5.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=U6auYqP9tKw</link>
-            <guid isPermaLink="false">142e3f6d-b781-436d-8d05-5b0eafe11846</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ring OpenURI sample web app (Logbar Ring)]]></title>
-            <description><![CDATA[<article><h1>Ring OpenURI sample web app (Logbar Ring)</h1><p>Download and try the app code at https://github.com/makevoid/ring_open_uri Recorded with phone that was connected to the Ring</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39db1675643454c1f7b8ad3e8339d3449535646a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=M8YzFcuyemo</link>
-            <guid isPermaLink="false">b8543b8d-1c7a-4c78-83c1-6feb95073686</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin NFC tags, 3D printed]]></title>
             <description><![CDATA[<article><h1>Bitcoin NFC tags, 3D printed</h1><p>See all the infos and get the 3D model on: http://www.thingiverse.com/thing:706011 --- Android App/Wallet coming soon!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25c764534b006c3f92d2d3b450288b92488ca65a.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>makevoid/web3_go</h1><p>web3_go - Interact with Geth via the JSON RPC API with Golang - very early stage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b70d5d6182da67dcc70309b12c26008262c353d.jpg"></article>]]></description>
             <link>https://github.com/makevoid/web3_go</link>
             <guid isPermaLink="false">164ce683-2fff-4a79-ac8d-c7169eb13b92</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[makevoid/paperbank]]></title>
+            <description><![CDATA[<article><h1>makevoid/paperbank</h1><p>paperbank - Bitcoin Paper Key generator - using a thermal USB printer and a basic linux box (like a Rrasp. PI) - Paper Wallet Generator</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b70d5d6182da67dcc70309b12c26008262c353d.jpg"></article>]]></description>
+            <link>https://github.com/makevoid/paperbank</link>
+            <guid isPermaLink="false">d63074ec-a50a-44ee-90d7-983422d685b6</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Edison &num;ffos &num;relay &num;battery &num;blockchain &num;solarpanels" src="https://pbs.twimg.com/media/CVGXqzbWoAEzV9d.jpg:large">]]></description>
+            <link>https://twitter.com/makevoid/status/671484632525889536</link>
+            <guid isPermaLink="false">dcace06e-840a-44d5-8698-8a7a6d96aaca</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
         </item>
     </channel>
