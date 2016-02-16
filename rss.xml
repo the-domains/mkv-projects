@@ -4,8 +4,43 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:55:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:56:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IPO and Insurance Projects Win £2,000 at Blockchain Hackathon]]></title>
+            <description><![CDATA[<article><h1>IPO and Insurance Projects Win £2,000 at Blockchain Hackathon</h1><p>Two ideas aiming to disrupt the IPO and insurance markets came top at 'Hack The Block' this Sunday, bringing London FinTech Week to a close. The two-day blockchain hackathon, sponsored by Lloyds Banking Group, IBM and Thomson Reuters, took place inside the latter's flagship building in Canary Wharf, the capital's banking hub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82b34687cfb7d3b4080c9e75f8b223a2a238cb12.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/ipo-and-insurance-projects-win-2000-at-blockchain-hackathon</link>
+            <guid isPermaLink="false">4c7f4d3e-e264-4073-8d8c-472884cd6da4</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PaperBank - Generate Cold Storage *Coin Paper Wallet, Offline, with Rasp PI]]></title>
+            <description><![CDATA[<article><h1>PaperBank - Generate Cold Storage *Coin Paper Wallet, Offline, with Rasp PI</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93652c5abfe09d5a24a55aeee01a9858a5d79f10.png"></article>]]></description>
+            <link>https://bitcointalk.org/index.php?topic=731803.0</link>
+            <guid isPermaLink="false">7ade4b62-6208-462c-a4ad-6dc305acbcb6</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="https&colon;&sol;&sol;github&period;com&sol;makevoid&sol;paperbank &period;&period;&period; Updated PaperBank project with usage guide - &num;bitcoin &num;paper &num;key &num;generator" src="https://pbs.twimg.com/media/CJv_drbXAAAnu3n.jpg:large">]]></description>
+            <link>https://twitter.com/makevoid/status/620370259112013824</link>
+            <guid isPermaLink="false">cbb458cb-8f91-48c4-9ac0-fc2a1a4d253c</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Congratulations to our winners for our latest hackathon event at UBS&excl;" src="https://pbs.twimg.com/media/CJPX10-WIAE_2gr.jpg:large">]]></description>
+            <link>https://twitter.com/HackC0in/status/618074894958489600</link>
+            <guid isPermaLink="false">9ee90548-649e-4e65-b75d-52ec61ce090e</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="More photos from our latest hackathon&excl; Great work to all our participants in London&excl;" src="https://pbs.twimg.com/media/CJPZkAQW8AAEYf_.jpg:large">]]></description>
+            <link>https://twitter.com/HackC0in/status/618076798224572416</link>
+            <guid isPermaLink="false">00c5d0d3-d843-463e-b89c-1f078f8f000a</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ImagesWallet]]></title>
             <description><![CDATA[<article><h1>ImagesWallet</h1></article>]]></description>
@@ -40,41 +75,6 @@
             <link>https://www.youtube.com/watch?v=srE1fDB-dTY</link>
             <guid isPermaLink="false">743d0bae-b241-4b72-8bd5-9ea3bc7d14ee</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="First contender for &commat;coinbase&apos;s &num;BitHack&colon; BitNFC&comma;&num;NFC &num;bitcoin wallet via &commat;makevoid http&colon;&sol;&sol;bitnfc&period;org&sol; &num;fintech" src="https://pbs.twimg.com/media/CFcGvNhWgAAgnuB.png:large">]]></description>
-            <link>https://twitter.com/ErolKazan/status/600956484135051264</link>
-            <guid isPermaLink="false">11db63a8-5832-4fcc-b1c5-a72f9e06d049</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3D Printed Bitcoin NFC Tags loading and spending]]></title>
-            <description><![CDATA[<article><h1>3D Printed Bitcoin NFC Tags loading and spending</h1><p>How to produce, load and spend custom DIY cheap NFC 3D printed bitcoin tags/coins - Unexpensive - DIY - Fun Good as gift for friends or for conference/company/exchange entry Bridges the virtual to the physical world. See the project files / instructions on: - Github: https://github.com/makevoid/3d_printed_nfc_bitcoins - Thingiverse: www.thingiverse.com/thing:706011 Enjoy!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b74de8505481daf822a0157bc922b8356babd9d5.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=U6auYqP9tKw</link>
-            <guid isPermaLink="false">142e3f6d-b781-436d-8d05-5b0eafe11846</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ring OpenURI sample web app (Logbar Ring)]]></title>
-            <description><![CDATA[<article><h1>Ring OpenURI sample web app (Logbar Ring)</h1><p>Download and try the app code at https://github.com/makevoid/ring_open_uri Recorded with phone that was connected to the Ring</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39db1675643454c1f7b8ad3e8339d3449535646a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=M8YzFcuyemo</link>
-            <guid isPermaLink="false">b8543b8d-1c7a-4c78-83c1-6feb95073686</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin NFC tags, 3D printed]]></title>
-            <description><![CDATA[<article><h1>Bitcoin NFC tags, 3D printed</h1><p>See all the infos and get the 3D model on: http://www.thingiverse.com/thing:706011 --- Android App/Wallet coming soon!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25c764534b006c3f92d2d3b450288b92488ca65a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=XvkjrJfUNgQ</link>
-            <guid isPermaLink="false">c744f41d-6845-4d64-80ad-e7cea3596f47</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Blockchain authoring tool at &commat;imogenheap hack day &commat;ProTipHQ &commat;makevoid &num;guardianlive" src="https://pbs.twimg.com/media/CQaiW2dUwAA_dVl.jpg:large">]]></description>
-            <link>https://twitter.com/zeligf/status/650385716883628032</link>
-            <guid isPermaLink="false">98474793-f2e1-4ede-ab6f-ceb0cdbf28f5</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
