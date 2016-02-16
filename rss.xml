@@ -4,8 +4,15 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:55:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin NFC Coin / Tag by makevoid]]></title>
+            <description><![CDATA[<article><h1>Bitcoin NFC Coin / Tag by makevoid</h1><p>Bitcoin NFC 3D printed tag! Print your own NFC Tag, many usecases! http://bitnfc.org/ Download BitNFC, the easiest way to scan and write the coins (developed also by me @ 720kb) An NFC tag can be used as a bitcoin wallet, this way you can literally 3d print your own money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/837d0fc80f1134bb69f20706e3a8c64df52e1f5b.jpg"></article>]]></description>
+            <link>https://www.thingiverse.com/thing:706011</link>
+            <guid isPermaLink="false">252b8f5d-dd7d-46f3-bf89-155f4148fe6f</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>crayons https://github.com/makevoid/DogeNFC#dogenfc ... #bitcoin #dogecoin</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>makevoid/vanieth</h1><p>vanieth - Ethereum vanity address "generator" written in golang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b70d5d6182da67dcc70309b12c26008262c353d.jpg"></article>]]></description>
             <link>https://github.com/makevoid/vanieth</link>
             <guid isPermaLink="false">f11dd457-d1c2-4e7f-978f-cac519b1e586</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitSwitch/BitRelay running on Intel Edison using Node.js and Blockchain.info API]]></title>
-            <description><![CDATA[<article><h1>BitSwitch/BitRelay running on Intel Edison using Node.js and Blockchain.info API</h1><p>BitSwitch/BitRelay running on Intel Edison using Node.js and Blockchain.info API Sample code: https://gist.github.com/makevoid/edcb65b679ddbd8c69fd</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26fb5faed420a2e4d15731309964367f66b7f5c1.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=gmdZxiMekOk</link>
-            <guid isPermaLink="false">8120ece0-ea56-455d-acf9-ae60f91248ca</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
         </item>
     </channel>
