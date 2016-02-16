@@ -4,11 +4,18 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:58:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="IPO and Insurance Projects Win &pound;2&comma;000 at Blockchain Hackathon http&colon;&sol;&sol;coinde&period;sk&sol;1Pkj6ZG" src="https://pbs.twimg.com/media/CPcH-PDWwAAfmRP.jpg:large">]]></description>
+            <link>https://twitter.com/coindesk/status/645993837744291840</link>
+            <guid isPermaLink="false">b71b2a47-5b21-4aa1-9a78-5a6220d454a0</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[InsurETH]]></title>
-            <description><![CDATA[<article><h1>InsurETH</h1><p>InsurETH lets you insure your flight directly with an ethereum smart contract</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de44beeff6fbd80192857139376e815c6b6e844c.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>InsurETH</h1><p>InsurETH lets you insure your flight directly with an ethereum smart contract</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e092117d6db1c4691c84fd8423d08d469f1006c.gif"></article>]]></description>
             <link>http://insureth.mkvd.net</link>
             <guid isPermaLink="false">a452ec9d-1d41-4d18-946c-ecd9317f899d</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>ImagesWallet</h1></article>]]></description>
             <link>http://imagewallet.org/</link>
             <guid isPermaLink="false">8f1162f8-7518-4136-9a36-fd07f069d246</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>BitNFC http://bitnfc.org - Watch the presentation + https://community.coinbase.com/t/how-was-your-experience-with-the-bithack/3134/13 ... + Follow the discussion on Reddit https://www.reddit.com/r/Bitcoin/comments/36lika/bitnfc_an_nfc_bitcoin_wallet_for_android_and/ ...</p>]]></description>
-            <link>https://twitter.com/makevoid/status/603096649230061568</link>
-            <guid isPermaLink="false">36636e03-025e-4b66-805b-74cd7e53f1f7</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
         </item>
     </channel>
