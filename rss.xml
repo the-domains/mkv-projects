@@ -4,36 +4,8 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:56:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:55:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="https&colon;&sol;&sol;github&period;com&sol;makevoid&sol;paperbank &period;&period;&period; Updated PaperBank project with usage guide - &num;bitcoin &num;paper &num;key &num;generator" src="https://pbs.twimg.com/media/CJv_drbXAAAnu3n.jpg:large">]]></description>
-            <link>https://twitter.com/makevoid/status/620370259112013824</link>
-            <guid isPermaLink="false">cbb458cb-8f91-48c4-9ac0-fc2a1a4d253c</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Congratulations to our winners for our latest hackathon event at UBS&excl;" src="https://pbs.twimg.com/media/CJPX10-WIAE_2gr.jpg:large">]]></description>
-            <link>https://twitter.com/HackC0in/status/618074894958489600</link>
-            <guid isPermaLink="false">9ee90548-649e-4e65-b75d-52ec61ce090e</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="More photos from our latest hackathon&excl; Great work to all our participants in London&excl;" src="https://pbs.twimg.com/media/CJPZkAQW8AAEYf_.jpg:large">]]></description>
-            <link>https://twitter.com/HackC0in/status/618076798224572416</link>
-            <guid isPermaLink="false">00c5d0d3-d843-463e-b89c-1f078f8f000a</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ImagesWallet]]></title>
-            <description><![CDATA[<article><h1>ImagesWallet</h1></article>]]></description>
-            <link>http://imagewallet.org/</link>
-            <guid isPermaLink="false">8f1162f8-7518-4136-9a36-fd07f069d246</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>BitNFC http://bitnfc.org - Watch the presentation + https://community.coinbase.com/t/how-was-your-experience-with-the-bithack/3134/13 ... + Follow the discussion on Reddit https://www.reddit.com/r/Bitcoin/comments/36lika/bitnfc_an_nfc_bitcoin_wallet_for_android_and/ ...</p>]]></description>
@@ -75,6 +47,34 @@
             <link>https://www.youtube.com/watch?v=U6auYqP9tKw</link>
             <guid isPermaLink="false">142e3f6d-b781-436d-8d05-5b0eafe11846</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ring OpenURI sample web app (Logbar Ring)]]></title>
+            <description><![CDATA[<article><h1>Ring OpenURI sample web app (Logbar Ring)</h1><p>Download and try the app code at https://github.com/makevoid/ring_open_uri Recorded with phone that was connected to the Ring</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39db1675643454c1f7b8ad3e8339d3449535646a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=M8YzFcuyemo</link>
+            <guid isPermaLink="false">b8543b8d-1c7a-4c78-83c1-6feb95073686</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin NFC tags, 3D printed]]></title>
+            <description><![CDATA[<article><h1>Bitcoin NFC tags, 3D printed</h1><p>See all the infos and get the 3D model on: http://www.thingiverse.com/thing:706011 --- Android App/Wallet coming soon!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25c764534b006c3f92d2d3b450288b92488ca65a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XvkjrJfUNgQ</link>
+            <guid isPermaLink="false">c744f41d-6845-4d64-80ad-e7cea3596f47</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Blockchain authoring tool at &commat;imogenheap hack day &commat;ProTipHQ &commat;makevoid &num;guardianlive" src="https://pbs.twimg.com/media/CQaiW2dUwAA_dVl.jpg:large">]]></description>
+            <link>https://twitter.com/zeligf/status/650385716883628032</link>
+            <guid isPermaLink="false">98474793-f2e1-4ede-ab6f-ceb0cdbf28f5</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="BitSwitch for &commat;Raspberry&lowbar;Pi in &num;PHP - It switches when the balance changes&colon; https&colon;&sol;&sol;gist&period;github&period;com&sol;makevoid&sol;1754a8cebdb1d8e5a5e3 &period;&period;&period; &commat;BitSwitchIO" src="https://pbs.twimg.com/media/CGNo48jWcAE0ujL.jpg:large">]]></description>
+            <link>https://twitter.com/makevoid/status/604442196411064320</link>
+            <guid isPermaLink="false">9b9bcfcf-a59f-41b0-b03f-4c0a3ac0994d</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
