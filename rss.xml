@@ -4,11 +4,25 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:56:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:57:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[PaperBank - A personal, offline Bitcoin Paper Wallet Generator]]></title>
+            <description><![CDATA[<article><h1>PaperBank - A personal, offline Bitcoin Paper Wallet Generator</h1><p>Your personal, offline Bitcoin Paper Wallet Read more at: http://paperbank.it Bitcointalk: https://bitcointalk.org/index.php?topic=731803 Open source - Github: https://github.com/makevoid/paperbank Donate BTC to support the project: 1PBank95kE4BZaQBfMsGZ3RCkqwwtGHjKA ---- Music: CC-BY-A Mystery Mammal - Greenhorn https://soundcloud.com/mysterymammal/greenhorn</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a22c5bd93bbf20fd22e56276364c50e3c3a4124.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=CUM51acMHJY</link>
+            <guid isPermaLink="false">e596bd35-4904-4101-a053-a3ad626126a7</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IPO and Insurance Projects Win £2,000 at Blockchain Hackathon]]></title>
+            <description><![CDATA[<article><h1>IPO and Insurance Projects Win £2,000 at Blockchain Hackathon</h1><p>Two ideas aiming to disrupt the IPO and insurance markets came top at 'Hack The Block' this Sunday, bringing London FinTech Week to a close. The two-day blockchain hackathon, sponsored by Lloyds Banking Group, IBM and Thomson Reuters, took place inside the latter's flagship building in Canary Wharf, the capital's banking hub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1abbf53e3a9f32a668a0e6d40e4919cfbe89f12a.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/ipo-and-insurance-projects-win-2000-at-blockchain-hackathon</link>
+            <guid isPermaLink="false">4c7f4d3e-e264-4073-8d8c-472884cd6da4</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[PaperBank - Generate Cold Storage *Coin Paper Wallet, Offline, with Rasp PI]]></title>
-            <description><![CDATA[<article><h1>PaperBank - Generate Cold Storage *Coin Paper Wallet, Offline, with Rasp PI</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4864a8614870d30bff670878c59e23348c730eac.png"></article>]]></description>
+            <description><![CDATA[<article><h1>PaperBank - Generate Cold Storage *Coin Paper Wallet, Offline, with Rasp PI</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93652c5abfe09d5a24a55aeee01a9858a5d79f10.png"></article>]]></description>
             <link>https://bitcointalk.org/index.php?topic=731803.0</link>
             <guid isPermaLink="false">7ade4b62-6208-462c-a4ad-6dc305acbcb6</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
@@ -60,20 +74,6 @@
             <description><![CDATA[<p>crayons https://github.com/makevoid/DogeNFC#dogenfc ... #bitcoin #dogecoin</p>]]></description>
             <link>https://twitter.com/makevoid/status/601174030444560384</link>
             <guid isPermaLink="false">3e7087de-f595-49ef-869b-b9962b495091</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitNFC - NFC Bitcoin Wallet for Android]]></title>
-            <description><![CDATA[<article><h1>BitNFC - NFC Bitcoin Wallet for Android</h1><p>BitNFC is an Android Bitcoin Wallet supporting NFC Download here: http://bitnfc.org The basic idea is that with BitNFC you can make avery NFC tag into a Bitcoin Wallet with just a tap! Video of the app: https://youtu.be/srE1fDB-dTY The project is open source on GitHub!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a40ff6dd586edc5106f35aaf69bd3f8bb849110.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=srE1fDB-dTY</link>
-            <guid isPermaLink="false">743d0bae-b241-4b72-8bd5-9ea3bc7d14ee</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="First contender for &commat;coinbase&apos;s &num;BitHack&colon; BitNFC&comma;&num;NFC &num;bitcoin wallet via &commat;makevoid http&colon;&sol;&sol;bitnfc&period;org&sol; &num;fintech" src="https://pbs.twimg.com/media/CFcGvNhWgAAgnuB.png:large">]]></description>
-            <link>https://twitter.com/ErolKazan/status/600956484135051264</link>
-            <guid isPermaLink="false">11db63a8-5832-4fcc-b1c5-a72f9e06d049</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
         </item>
     </channel>
