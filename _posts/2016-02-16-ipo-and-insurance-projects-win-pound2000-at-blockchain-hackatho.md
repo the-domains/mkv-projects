@@ -1,45 +1,58 @@
 ---
 author:
-  - name: Grace Caffyn
-    url: 'http://www.coindesk.com/author/grace-caffyn/'
-    avatar: {}
-  - name: Bailey Reutzel
-    url: 'http://www.coindesk.com/author/baileyreutzel/'
-    avatar: {}
-  - name: Pete Rizzo
-    url: 'http://www.coindesk.com/author/pete-rizzo/'
-    avatar: {}
+  - name: coindesk
+    url: 'http://twitter.com/coindesk'
+    avatar:
+      src: 'https://pbs.twimg.com/profile_images/505182765457764352/2wAnUl4N_normal.jpeg'
+      width: 48
+      height: 48
+      colors:
+        - - 240
+          - 248
+          - 240
+        - - 98
+          - 89
+          - 86
+        - - 60
+          - 52
+          - 54
+        - - 20
+          - 23
+          - 26
+        - - 115
+          - 127
+          - 134
 related: []
 publisher:
-  url: 'http://www.coindesk.com'
-  name: CoinDesk
-  favicon: 'http://www.coindesk.com/wp-content/uploads/2013/04/favicon1.ico?480eb0'
-  domain: www.coindesk.com
+  url: 'http://twitter.com'
+  name: Twitter
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+  domain: twitter.com
 keywords:
   - blockchain
+  - hackathon
+  - 2plnconj5h
+  - twitter
+  - location
+  - http
+  - ipo
+  - tweet
   - coindesk
-  - ethereum
-  - nugent
-  - teams
-  - issuefficient
-  - bertani
-  - fintech
-  - insureth
-  - bank
-description: "Two ideas aiming to disrupt the IPO and insurance markets came top at 'Hack The Block' this Sunday, bringing London FinTech Week to a close. The two-day blockchain hackathon, sponsored by Lloyds Banking Group, IBM and Thomson Reuters, took place inside the latter's flagship building in Canary Wharf, the capital's banking hub."
+  - 8o6cui3igh
+description: 'IPO and Insurance Projects Win £2,000 at Blockchain Hackathon http://coinde.sk/1Pkj6ZG'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.coindesk.com/ipo-and-insurance-projects-win-2000-at-blockchain-hackathon'
-title: 'IPO and Insurance Projects Win £2,000 at Blockchain Hackathon'
-datePublished: '2016-02-16T23:53:20.658Z'
-dateModified: '2016-02-16T23:49:54.363Z'
+isBasedOnUrl: 'https://twitter.com/coindesk/status/645993837744291840'
+datePublished: '2016-02-16T23:53:20.751Z'
+dateModified: '2016-02-16T23:49:55.800Z'
+title: ''
 sourcePath: _posts/2016-02-16-ipo-and-insurance-projects-win-pound2000-at-blockchain-hackatho.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+_type: Photograph
 _context: 'http://schema.org'
-_type: MediaObject
 
 ---
-<article style=""><h1>IPO and Insurance Projects Win £2&amp;comma;000 at Blockchain Hackathon</h1><p>Two ideas aiming to disrupt the IPO and insurance markets came top at 'Hack The Block' this Sunday&amp;comma; bringing London FinTech Week to a close&amp;period; The two-day blockchain hackathon&amp;comma; sponsored by Lloyds Banking Group&amp;comma; IBM and Thomson Reuters&amp;comma; took place inside the latter's flagship building in Canary Wharf&amp;comma; the capital's banking hub&amp;period;</p><img src="http://media.coindesk.com/2015/09/IMG_0740.jpg" /></article>
+![IPO and Insurance Projects Win £2&comma;000 at Blockchain Hackathon http&colon;&sol;&sol;coinde&period;sk&sol;1Pkj6ZG](https://pbs.twimg.com/media/CPcH-PDWwAAfmRP.jpg:large)
