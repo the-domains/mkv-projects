@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://github.com/makevoid/vanieth'
 title: makevoid/vanieth
-datePublished: '2016-02-16T23:53:19.487Z'
-dateModified: '2016-02-16T23:50:22.734Z'
+datePublished: '2016-02-16T23:53:21.478Z'
+dateModified: '2016-02-16T23:49:14.721Z'
 sourcePath: _posts/2016-02-16-makevoidvanieth.md
 published: true
 inFeed: true
