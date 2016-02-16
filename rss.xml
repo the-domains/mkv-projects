@@ -4,8 +4,15 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:54:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BitSwitch/BitRelay running on Intel Edison using Node.js and Blockchain.info API]]></title>
+            <description><![CDATA[<article><h1>BitSwitch/BitRelay running on Intel Edison using Node.js and Blockchain.info API</h1><p>BitSwitch/BitRelay running on Intel Edison using Node.js and Blockchain.info API Sample code: https://gist.github.com/makevoid/edcb65b679ddbd8c69fd</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26fb5faed420a2e4d15731309964367f66b7f5c1.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=gmdZxiMekOk</link>
+            <guid isPermaLink="false">8120ece0-ea56-455d-acf9-ae60f91248ca</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Paperbank Pocket first release https://github.com/makevoid/paperbank-pocket ... Create paper wallets w/ a Pocket Photo printer #bitcoin #oss pic.twitter.com/aFTxWjUHnn</p>]]></description>
