@@ -43,8 +43,8 @@ description: 'Paperbank Pocket first release https://github.com/makevoid/paperba
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/makevoid/status/680967769123373056'
-datePublished: '2016-02-16T23:53:19.375Z'
-dateModified: '2016-02-16T23:50:22.773Z'
+datePublished: '2016-02-16T23:53:21.316Z'
+dateModified: '2016-02-16T23:49:16.693Z'
 title: ''
 sourcePath: _posts/2016-02-16-paperbank-pocket-first-release-httpsgithubcommakevoidp.md
 published: true
