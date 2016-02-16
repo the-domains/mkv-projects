@@ -33,8 +33,8 @@ description: 'Edison #ffos #relay #battery #blockchain #solarpanels'
 inLanguage: ca
 app_links: []
 isBasedOnUrl: 'https://twitter.com/makevoid/status/671484632525889536'
-datePublished: '2016-02-16T23:53:19.212Z'
-dateModified: '2016-02-16T23:50:22.979Z'
+datePublished: '2016-02-16T23:53:21.252Z'
+dateModified: '2016-02-16T23:49:19.160Z'
 title: ''
 sourcePath: _posts/2016-02-16-edison-ffos-relay-battery-blockchain-solarpanels.md
 published: true
