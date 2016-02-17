@@ -4,11 +4,32 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 09:21:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[bitnfc.org]]></title>
+            <description><![CDATA[<article><h1>bitnfc.org</h1><p>Bitcoin NFC mobile wallet, 100% open source</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c2dd79af265ccd03057a203f590feb8e22b0d6a.jpg"></article>]]></description>
+            <link>http://bitnfc.org/</link>
+            <guid isPermaLink="false">5439c8c0-ad09-41ca-8c48-ae7a67cff92e</guid>
+            <pubDate>Wed, 17 Feb 2016 09:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="So&comma; you say that an ajax request is only 4 lines and we&apos;re using those wrappers&sol;libs&quest; lol&excl; https&colon;&sol;&sol;developer&period;mozilla&period;org&sol;en-US&sol;docs&sol;Web&sol;API&sol;XMLHttpRequest&sol;Using&lowbar;XMLHttpRequest &period;&period;&period;" src="https://pbs.twimg.com/media/CC9stbaXIAEnAdo.png:large">]]></description>
+            <link>https://twitter.com/makevoid/status/589809605791895552</link>
+            <guid isPermaLink="false">10b9195e-8da8-490c-816d-6ed2db922a6c</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solether]]></title>
+            <description><![CDATA[<article><h1>Solether</h1><p>Autonomous entities that give you energy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5a56f03a40f24ce7b8ee6a94fa39575d7723e86.png"></article>]]></description>
+            <link>http://solether.mkvd.net</link>
+            <guid isPermaLink="false">460c9519-4cab-4824-bc25-156e44079709</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[makevoid/vanieth]]></title>
-            <description><![CDATA[<article><h1>makevoid/vanieth</h1><p>vanieth - Ethereum vanity address "generator" written in golang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7060160b39e587059bf62a5da9dde0ee500ef1c2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>makevoid/vanieth</h1><p>vanieth - Ethereum vanity address "generator" written in golang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b70d5d6182da67dcc70309b12c26008262c353d.jpg"></article>]]></description>
             <link>https://github.com/makevoid/vanieth</link>
             <guid isPermaLink="false">874f8032-220a-4ea1-a705-47afee58c795</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:21 GMT</pubDate>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Blockchain Pen</h1><p>Blockchain Pen - the easiest way to write immutable messages on the blockchain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f232a0844243a4fec8c645c0ec2903bd6ad113b2.png"></article>]]></description>
             <link>http://blockchainpen.com</link>
             <guid isPermaLink="false">d050f475-91bb-4516-b4aa-393361577a0f</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[makevoid/blockchain_pen]]></title>
-            <description><![CDATA[<article><h1>makevoid/blockchain_pen</h1><p>blockchain_pen - Check the new repo:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b70d5d6182da67dcc70309b12c26008262c353d.jpg"></article>]]></description>
-            <link>https://github.com/makevoid/blockchain_pen</link>
-            <guid isPermaLink="false">f186bacd-ae36-4cf4-bdcc-f4d292be9ff1</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>On 7th November, last month, an IoT and Blockchain hackathon ran in London in association with RS Components to explore the common ground between...</p>]]></description>
-            <link>https://www.facebook.com/slockitproject/posts/509147385926336</link>
-            <guid isPermaLink="false">31e655bb-2eb7-4cd0-8233-89f2b520e29e</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>my posts on @eternitywall http://eternitywall.it/?q=makevoid</p>]]></description>
-            <link>https://twitter.com/makevoid/status/637645466847608833</link>
-            <guid isPermaLink="false">84246b99-b4d3-44c9-8578-1806b9edeb81</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:21 GMT</pubDate>
         </item>
     </channel>
