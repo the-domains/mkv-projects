@@ -4,11 +4,25 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 23:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 23:59:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>On 7th November, last month, an IoT and Blockchain hackathon ran in London in association with RS Components to explore the common ground between...</p>]]></description>
+            <link>https://www.facebook.com/slockitproject/posts/509147385926336</link>
+            <guid isPermaLink="false">31e655bb-2eb7-4cd0-8233-89f2b520e29e</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>my posts on @eternitywall http://eternitywall.it/?q=makevoid</p>]]></description>
+            <link>https://twitter.com/makevoid/status/637645466847608833</link>
+            <guid isPermaLink="false">84246b99-b4d3-44c9-8578-1806b9edeb81</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[bertani/insurETH]]></title>
-            <description><![CDATA[<article><h1>bertani/insurETH</h1><p>Contribute to insurETH development by creating an account on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e4fabe2dbc80f0a248167008706d58c14edf613.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>bertani/insurETH</h1><p>Contribute to insurETH development by creating an account on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/333e3df00d00c7d52040678dd21f9801a66cd8e9.jpg"></article>]]></description>
             <link>https://github.com/bertani/insurETH</link>
             <guid isPermaLink="false">daaa95c6-aaf3-4850-b2a1-fe218cd53798</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
@@ -60,20 +74,6 @@
             <description><![CDATA[<img alt="https&colon;&sol;&sol;github&period;com&sol;makevoid&sol;paperbank &period;&period;&period; Updated PaperBank project with usage guide - &num;bitcoin &num;paper &num;key &num;generator" src="https://pbs.twimg.com/media/CJv_drbXAAAnu3n.jpg:large">]]></description>
             <link>https://twitter.com/makevoid/status/620370259112013824</link>
             <guid isPermaLink="false">cbb458cb-8f91-48c4-9ac0-fc2a1a4d253c</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Congratulations to our winners for our latest hackathon event at UBS&excl;" src="https://pbs.twimg.com/media/CJPX10-WIAE_2gr.jpg:large">]]></description>
-            <link>https://twitter.com/HackC0in/status/618074894958489600</link>
-            <guid isPermaLink="false">9ee90548-649e-4e65-b75d-52ec61ce090e</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="More photos from our latest hackathon&excl; Great work to all our participants in London&excl;" src="https://pbs.twimg.com/media/CJPZkAQW8AAEYf_.jpg:large">]]></description>
-            <link>https://twitter.com/HackC0in/status/618076798224572416</link>
-            <guid isPermaLink="false">00c5d0d3-d843-463e-b89c-1f078f8f000a</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:20 GMT</pubDate>
         </item>
     </channel>
