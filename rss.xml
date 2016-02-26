@@ -4,7 +4,7 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 00:53:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 00:54:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b</link>
             <guid isPermaLink="false">b599945a-3d4f-444a-9642-49c9e070160f</guid>
             <pubDate>Fri, 26 Feb 2016 00:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PaperBank - A personal, offline Bitcoin Paper Wallet Generator]]></title>
+            <description><![CDATA[<article><h1>PaperBank - A personal, offline Bitcoin Paper Wallet Generator</h1><p>Your personal, offline Bitcoin Paper Wallet Read more at: http://paperbank.it Bitcointalk: https://bitcointalk.org/index.php?topic=731803 Open source - Github: https://github.com/makevoid/paperbank Donate BTC to support the project: 1PBank95kE4BZaQBfMsGZ3RCkqwwtGHjKA ---- Music: CC-BY-A Mystery Mammal - Greenhorn https://soundcloud.com/mysterymammal/greenhorn</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a22c5bd93bbf20fd22e56276364c50e3c3a4124.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=CUM51acMHJY</link>
+            <guid isPermaLink="false">5443cd0e-6b44-4a47-aa53-ccbce39ee57f</guid>
+            <pubDate>Fri, 26 Feb 2016 00:53:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://bitnfc.org/</link>
             <guid isPermaLink="false">5439c8c0-ad09-41ca-8c48-ae7a67cff92e</guid>
             <pubDate>Fri, 26 Feb 2016 00:36:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="So&comma; you say that an ajax request is only 4 lines and we&apos;re using those wrappers&sol;libs&quest; lol&excl; https&colon;&sol;&sol;developer&period;mozilla&period;org&sol;en-US&sol;docs&sol;Web&sol;API&sol;XMLHttpRequest&sol;Using&lowbar;XMLHttpRequest &period;&period;&period;" src="https://pbs.twimg.com/media/CC9stbaXIAEnAdo.png:large">]]></description>
-            <link>https://twitter.com/makevoid/status/589809605791895552</link>
-            <guid isPermaLink="false">10b9195e-8da8-490c-816d-6ed2db922a6c</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
