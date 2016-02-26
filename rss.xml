@@ -14,13 +14,6 @@
             <pubDate>Fri, 26 Feb 2016 10:12:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[makevoid/blockchain_pen]]></title>
-            <description><![CDATA[<article><h1>makevoid/blockchain_pen</h1><p>blockchain_pen - Check the new repo:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b70d5d6182da67dcc70309b12c26008262c353d.jpg"></article>]]></description>
-            <link>https://github.com/makevoid/blockchain_pen</link>
-            <guid isPermaLink="false">f186bacd-ae36-4cf4-bdcc-f4d292be9ff1</guid>
-            <pubDate>Fri, 26 Feb 2016 10:19:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[PaperBank]]></title>
             <description><![CDATA[<article><h1>PaperBank</h1><p>Create paper wallet easily. Powered by Raspberry PI, linux and a USB thermal printer. It supports: bitcoin, litecoin, dogecoin, namecoin, bip38 (password protected wallets), vanitygen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6eb042c06efbd4e39db6afdc101aea7f2a70d1b7.png"></article>]]></description>
             <link>http://paperbank.it/#PaperBank</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Ring OpenURI sample web app (Logbar Ring)</h1><p>Download and try the app code at https://github.com/makevoid/ring_open_uri Recorded with phone that was connected to the Ring</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39db1675643454c1f7b8ad3e8339d3449535646a.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=M8YzFcuyemo</link>
             <guid isPermaLink="false">848761de-77a3-4e49-91e1-9947ff640120</guid>
+            <pubDate>Fri, 26 Feb 2016 00:53:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BitNFC - NFC Bitcoin Wallet for Android]]></title>
+            <description><![CDATA[<article><h1>BitNFC - NFC Bitcoin Wallet for Android</h1><p>BitNFC is an Android Bitcoin Wallet supporting NFC Download here: http://bitnfc.org The basic idea is that with BitNFC you can make avery NFC tag into a Bitcoin Wallet with just a tap! Video of the app: https://youtu.be/srE1fDB-dTY The project is open source on GitHub!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a40ff6dd586edc5106f35aaf69bd3f8bb849110.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=srE1fDB-dTY</link>
+            <guid isPermaLink="false">6d3fd581-4690-46c1-9b4d-6dd0cf16abd6</guid>
             <pubDate>Fri, 26 Feb 2016 00:53:52 GMT</pubDate>
         </item>
     </channel>
