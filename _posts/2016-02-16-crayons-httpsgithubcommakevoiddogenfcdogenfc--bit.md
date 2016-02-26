@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/makevoid/status/601174030444560384'
+inLanguage: en
+starred: false
+keywords:
+  - dogenfc
+  - dogecoin
+  - crayons
+  - bitcoin
+  - location
+  - https
+  - twitter
+  - tweet
+  - makevoid
+  - canessa
+description: 'crayons https://github.com/makevoid/DogeNFC#dogenfc ... #bitcoin #dogecoin'
+datePublished: '2016-02-26T00:36:15.194Z'
+dateModified: '2016-02-26T00:36:12.162Z'
 author:
   - name: makevoid
     url: 'http://twitter.com/makevoid'
@@ -23,36 +43,20 @@ author:
           - 130
           - 138
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - dogenfc
-  - dogecoin
-  - crayons
-  - bitcoin
-  - location
-  - https
-  - twitter
-  - tweet
-  - makevoid
-  - canessa
-description: 'crayons https://github.com/makevoid/DogeNFC#dogenfc ... #bitcoin #dogecoin'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/makevoid/status/601174030444560384'
-datePublished: '2016-02-16T23:53:20.138Z'
-dateModified: '2016-02-16T23:50:16.969Z'
 title: ''
 sourcePath: _posts/2016-02-16-crayons-httpsgithubcommakevoiddogenfcdogenfc--bit.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/113a706f-4546-4f0d-a36d-9d2cbb1559df.png)
+
 > crayons https&colon;&sol;&sol;github&period;com&sol;makevoid&sol;DogeNFC&num;dogenfc &period;&period;&period; &num;bitcoin &num;dogecoin
