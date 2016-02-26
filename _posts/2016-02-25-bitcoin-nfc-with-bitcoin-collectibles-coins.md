@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-26T21:34:23.308Z'
-dateModified: '2016-02-26T21:34:12.191Z'
+datePublished: '2016-02-26T21:36:04.456Z'
+dateModified: '2016-02-26T21:34:31.366Z'
 author: []
 title: Bitcoin NFC with bitcoin collectibles coins
 sourcePath: _posts/2016-02-25-bitcoin-nfc-with-bitcoin-collectibles-coins.md
