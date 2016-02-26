@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b'
 author: []
-datePublished: '2016-02-25T22:05:39.016Z'
+datePublished: '2016-02-26T00:31:21.789Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: Bitcoin NFC with bitcoin collectibles coins
-dateModified: '2016-02-25T22:05:21.894Z'
+dateModified: '2016-02-25T22:10:39.348Z'
 sourcePath: _posts/2016-02-25-bitcoin-nfc-with-bitcoin-collectibles-coins.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: bitcoin-nfc-with-bitcoin-collectibles-coins/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
