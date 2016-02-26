@@ -4,7 +4,7 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 00:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 00:54:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b</link>
             <guid isPermaLink="false">b599945a-3d4f-444a-9642-49c9e070160f</guid>
             <pubDate>Fri, 26 Feb 2016 00:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bitnfc.org]]></title>
+            <description><![CDATA[<article><h1>bitnfc.org</h1><p>Bitcoin NFC mobile wallet, 100% open source</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c2dd79af265ccd03057a203f590feb8e22b0d6a.jpg"></article>]]></description>
+            <link>http://bitnfc.org/</link>
+            <guid isPermaLink="false">5439c8c0-ad09-41ca-8c48-ae7a67cff92e</guid>
+            <pubDate>Fri, 26 Feb 2016 00:54:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bitcoin NFC 3D printed coin face / nfc tag shell]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/makevoid/status/637645466847608833</link>
             <guid isPermaLink="false">84246b99-b4d3-44c9-8578-1806b9edeb81</guid>
             <pubDate>Fri, 26 Feb 2016 00:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/113a706f-4546-4f0d-a36d-9d2cbb1559df.png">]]></description>
-            <link>https://twitter.com/makevoid/status/601174030444560384</link>
-            <guid isPermaLink="false">3e7087de-f595-49ef-869b-b9962b495091</guid>
-            <pubDate>Fri, 26 Feb 2016 00:36:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
