@@ -4,7 +4,7 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 00:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 00:46:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
@@ -12,13 +12,6 @@
             <link>urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b</link>
             <guid isPermaLink="false">b599945a-3d4f-444a-9642-49c9e070160f</guid>
             <pubDate>Fri, 26 Feb 2016 00:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[makevoid/web3_go]]></title>
-            <description><![CDATA[<article><h1>makevoid/web3_go</h1><p>web3_go - Interact with Geth via the JSON RPC API with Golang - very early stage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b70d5d6182da67dcc70309b12c26008262c353d.jpg"></article>]]></description>
-            <link>https://github.com/makevoid/web3_go</link>
-            <guid isPermaLink="false">164ce683-2fff-4a79-ac8d-c7169eb13b92</guid>
-            <pubDate>Fri, 26 Feb 2016 00:42:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>http://solether.mkvd.net</link>
             <guid isPermaLink="false">460c9519-4cab-4824-bc25-156e44079709</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[makevoid/vanieth]]></title>
+            <description><![CDATA[<article><h1>makevoid/vanieth</h1><p>vanieth - Ethereum vanity address "generator" written in golang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ea8e9fab01dab14244f8023720c46bf4a9b340.jpg"></article>]]></description>
+            <link>https://github.com/makevoid/vanieth</link>
+            <guid isPermaLink="false">874f8032-220a-4ea1-a705-47afee58c795</guid>
+            <pubDate>Tue, 16 Feb 2016 23:53:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
