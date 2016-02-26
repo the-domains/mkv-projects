@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://github.com'
-  name: GitHub
-  favicon: 'https://assets-cdn.github.com/favicon.ico'
-  domain: github.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://github.com/makevoid/paperbank'
+inLanguage: en
+starred: false
 keywords:
   - wallet
   - bitcoin
@@ -18,19 +17,24 @@ keywords:
   - makevoid
   - paperbank
 description: paperbank - Bitcoin Paper Key generator - using a thermal USB printer and a basic linux box (like a Rrasp. PI) - Paper Wallet Generator
-inLanguage: en
+datePublished: '2016-02-26T00:32:46.999Z'
+dateModified: '2016-02-26T00:32:35.448Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://github.com/makevoid/paperbank'
 title: makevoid/paperbank
-datePublished: '2016-02-16T23:53:19.245Z'
-dateModified: '2016-02-16T23:50:59.947Z'
 sourcePath: _posts/2016-02-16-makevoidpaperbank.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: GitHub
+  domain: github.com
+  url: 'https://github.com'
+  favicon: 'https://assets-cdn.github.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 <article style=""><h1>makevoid&amp;sol;paperbank</h1><p>paperbank - Bitcoin Paper Key generator - using a thermal USB printer and a basic linux box &amp;lpar;like a Rrasp&amp;period; PI&amp;rpar; - Paper Wallet Generator</p><img src="https://avatars3.githubusercontent.com/u/14677?v=3&amp;s=400" /></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5f61514-f7e5-4915-b340-0eb359ab4eba.png)
