@@ -4,7 +4,7 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 21:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 21:47:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b</link>
             <guid isPermaLink="false">b599945a-3d4f-444a-9642-49c9e070160f</guid>
             <pubDate>Fri, 26 Feb 2016 21:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bertani/insurETH]]></title>
+            <description><![CDATA[<article><h1>bertani/insurETH</h1><p>Contribute to insurETH development by creating an account on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c14bda34095fc4c6e3fcfdf199f9f74b61c8764.png"></article>]]></description>
+            <link>https://github.com/bertani/insurETH</link>
+            <guid isPermaLink="false">daaa95c6-aaf3-4850-b2a1-fe218cd53798</guid>
+            <pubDate>Fri, 26 Feb 2016 21:47:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[makevoid/blockchain_pen]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=XvkjrJfUNgQ</link>
             <guid isPermaLink="false">d5fc7975-af13-45ab-8adf-fc93add062d2</guid>
             <pubDate>Fri, 26 Feb 2016 10:13:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ring OpenURI sample web app (Logbar Ring)]]></title>
-            <description><![CDATA[<article><h1>Ring OpenURI sample web app (Logbar Ring)</h1><p>Download and try the app code at https://github.com/makevoid/ring_open_uri Recorded with phone that was connected to the Ring</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39db1675643454c1f7b8ad3e8339d3449535646a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=M8YzFcuyemo</link>
-            <guid isPermaLink="false">848761de-77a3-4e49-91e1-9947ff640120</guid>
-            <pubDate>Fri, 26 Feb 2016 00:53:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
