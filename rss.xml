@@ -4,7 +4,7 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 00:54:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 00:54:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b</link>
             <guid isPermaLink="false">b599945a-3d4f-444a-9642-49c9e070160f</guid>
             <pubDate>Fri, 26 Feb 2016 00:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin NFC 3D printed coin face / nfc tag shell]]></title>
+            <description><![CDATA[<article><h1>Bitcoin NFC 3D printed coin face / nfc tag shell</h1><p>Uploaded by Francesco Canessa on 2015-03-03.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db7bc3432e59d3d38686909d03131d3a34cc9be3.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=yFjw6WXUtZY</link>
+            <guid isPermaLink="false">17748f4d-602d-4629-a11f-0544ec2af4f1</guid>
+            <pubDate>Fri, 26 Feb 2016 00:53:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bitcoin NFC tags, 3D printed]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/makevoid/status/601174030444560384</link>
             <guid isPermaLink="false">3e7087de-f595-49ef-869b-b9962b495091</guid>
             <pubDate>Fri, 26 Feb 2016 00:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bertani/insurETH]]></title>
-            <description><![CDATA[<article><h1>bertani/insurETH</h1><p>Contribute to insurETH development by creating an account on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e7ec82438a9128bf2ab0e3d47a20ab9c34dcf05.jpg"></article>]]></description>
-            <link>https://github.com/bertani/insurETH</link>
-            <guid isPermaLink="false">daaa95c6-aaf3-4850-b2a1-fe218cd53798</guid>
-            <pubDate>Fri, 26 Feb 2016 00:34:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
