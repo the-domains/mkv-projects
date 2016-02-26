@@ -17,8 +17,8 @@ keywords:
   - amounts
   - file
 description: 'Bitcoin NFC mobile wallet, 100% open source'
-datePublished: '2016-02-26T00:36:38.951Z'
-dateModified: '2016-02-26T00:36:27.384Z'
+datePublished: '2016-02-26T00:54:30.814Z'
+dateModified: '2016-02-26T00:36:41.242Z'
 author: []
 related: []
 app_links: []
