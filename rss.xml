@@ -4,7 +4,7 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 09:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 09:49:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b</link>
             <guid isPermaLink="false">b599945a-3d4f-444a-9642-49c9e070160f</guid>
             <pubDate>Fri, 26 Feb 2016 00:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[makevoid/solether]]></title>
+            <description><![CDATA[<article><h1>makevoid/solether</h1><p>solether - Solether website and project infos</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d1c4f3a-961a-4da2-83bc-5cb097521923.png"></article>]]></description>
+            <link>https://github.com/makevoid/solether</link>
+            <guid isPermaLink="false">fdc7f962-7a07-44e2-984d-eac561e10286</guid>
+            <pubDate>Fri, 26 Feb 2016 09:47:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ImagesWallet]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=CUM51acMHJY</link>
             <guid isPermaLink="false">5443cd0e-6b44-4a47-aa53-ccbce39ee57f</guid>
             <pubDate>Fri, 26 Feb 2016 00:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://hub.docker.com/v2/users/makevoid/avatar/"></article>]]></description>
-            <link>https://hub.docker.com/r/makevoid/ruby-2.3/</link>
-            <guid isPermaLink="false">44180a44-9ec0-4a0e-8f6b-10d6fc208178</guid>
-            <pubDate>Fri, 26 Feb 2016 00:51:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
