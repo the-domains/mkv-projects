@@ -4,7 +4,7 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 00:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 00:46:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
@@ -14,8 +14,36 @@
             <pubDate>Fri, 26 Feb 2016 00:31:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[makevoid/web3_go]]></title>
+            <description><![CDATA[<article><h1>makevoid/web3_go</h1><p>web3_go - Interact with Geth via the JSON RPC API with Golang - very early stage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b70d5d6182da67dcc70309b12c26008262c353d.jpg"></article>]]></description>
+            <link>https://github.com/makevoid/web3_go</link>
+            <guid isPermaLink="false">164ce683-2fff-4a79-ac8d-c7169eb13b92</guid>
+            <pubDate>Fri, 26 Feb 2016 00:42:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38e56fcd-2150-4588-872a-8f92a1c89de8.png">]]></description>
+            <link>https://twitter.com/makevoid/status/637645466847608833</link>
+            <guid isPermaLink="false">84246b99-b4d3-44c9-8578-1806b9edeb81</guid>
+            <pubDate>Fri, 26 Feb 2016 00:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/113a706f-4546-4f0d-a36d-9d2cbb1559df.png">]]></description>
+            <link>https://twitter.com/makevoid/status/601174030444560384</link>
+            <guid isPermaLink="false">3e7087de-f595-49ef-869b-b9962b495091</guid>
+            <pubDate>Fri, 26 Feb 2016 00:36:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bertani/insurETH]]></title>
+            <description><![CDATA[<article><h1>bertani/insurETH</h1><p>Contribute to insurETH development by creating an account on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e7ec82438a9128bf2ab0e3d47a20ab9c34dcf05.jpg"></article>]]></description>
+            <link>https://github.com/bertani/insurETH</link>
+            <guid isPermaLink="false">daaa95c6-aaf3-4850-b2a1-fe218cd53798</guid>
+            <pubDate>Fri, 26 Feb 2016 00:34:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[makevoid/paperbank]]></title>
-            <description><![CDATA[<article><h1>makevoid/paperbank</h1><p>paperbank - Bitcoin Paper Key generator - using a thermal USB printer and a basic linux box (like a Rrasp. PI) - Paper Wallet Generator</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b70d5d6182da67dcc70309b12c26008262c353d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>makevoid/paperbank</h1><p>paperbank - Bitcoin Paper Key generator - using a thermal USB printer and a basic linux box (like a Rrasp. PI) - Paper Wallet Generator</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ea8e9fab01dab14244f8023720c46bf4a9b340.jpg"></article>]]></description>
             <link>https://github.com/makevoid/paperbank</link>
             <guid isPermaLink="false">d63074ec-a50a-44ee-90d7-983422d685b6</guid>
             <pubDate>Fri, 26 Feb 2016 00:32:46 GMT</pubDate>
@@ -32,7 +60,7 @@
             <description><![CDATA[<article><h1>bitnfc.org</h1><p>Bitcoin NFC mobile wallet, 100% open source</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aff240d326f1e42a474f0ceeef6edeb3b5f06212.jpg"></article>]]></description>
             <link>http://bitnfc.org/</link>
             <guid isPermaLink="false">5439c8c0-ad09-41ca-8c48-ae7a67cff92e</guid>
-            <pubDate>Wed, 17 Feb 2016 09:21:00 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 00:36:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,34 +75,6 @@
             <link>http://solether.mkvd.net</link>
             <guid isPermaLink="false">460c9519-4cab-4824-bc25-156e44079709</guid>
             <pubDate>Tue, 16 Feb 2016 23:53:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[makevoid/vanieth]]></title>
-            <description><![CDATA[<article><h1>makevoid/vanieth</h1><p>vanieth - Ethereum vanity address "generator" written in golang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ea8e9fab01dab14244f8023720c46bf4a9b340.jpg"></article>]]></description>
-            <link>https://github.com/makevoid/vanieth</link>
-            <guid isPermaLink="false">874f8032-220a-4ea1-a705-47afee58c795</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://hub.docker.com/v2/users/makevoid/avatar/"></article>]]></description>
-            <link>https://hub.docker.com/r/makevoid/ruby-2.3/</link>
-            <guid isPermaLink="false">5a37f282-508e-4139-8e1a-3062f746c94d</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Paperbank Pocket first release https://github.com/makevoid/paperbank-pocket ... Create paper wallets w/ a Pocket Photo printer #bitcoin #oss pic.twitter.com/aFTxWjUHnn</p>]]></description>
-            <link>https://twitter.com/makevoid/status/680967769123373056</link>
-            <guid isPermaLink="false">0b9d3aac-5c11-4c22-89f5-e96ae9448a8d</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[makevoid/solether]]></title>
-            <description><![CDATA[<article><h1>makevoid/solether</h1><p>solether - Solether website and project infos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ea8e9fab01dab14244f8023720c46bf4a9b340.jpg"></article>]]></description>
-            <link>https://github.com/makevoid/solether</link>
-            <guid isPermaLink="false">fdc7f962-7a07-44e2-984d-eac561e10286</guid>
-            <pubDate>Tue, 16 Feb 2016 23:53:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
