@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://github.com'
-  name: GitHub
-  favicon: 'https://assets-cdn.github.com/favicon.ico'
-  domain: github.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://github.com/makevoid/solether'
+inLanguage: en
+starred: false
 keywords:
   - solether
   - schematics
@@ -18,19 +17,24 @@ keywords:
   - input
   - controller
 description: solether - Solether website and project infos
-inLanguage: en
+datePublished: '2016-02-26T09:47:16.470Z'
+dateModified: '2016-02-26T09:46:12.328Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://github.com/makevoid/solether'
 title: makevoid/solether
-datePublished: '2016-02-16T23:53:21.264Z'
-dateModified: '2016-02-16T23:49:21.576Z'
 sourcePath: _posts/2016-02-16-makevoidsolether.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: GitHub
+  domain: github.com
+  url: 'https://github.com'
+  favicon: 'https://assets-cdn.github.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d1c4f3a-961a-4da2-83bc-5cb097521923.png)
+
 <article style=""><h1>makevoid&amp;sol;solether</h1><p>solether - Solether website and project infos</p><img src="https://avatars3.githubusercontent.com/u/14677?v=3&amp;s=400" /></article>
