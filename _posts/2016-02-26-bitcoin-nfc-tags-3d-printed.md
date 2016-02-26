@@ -5,22 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 keywords: []
 description: 'See all the infos and get the 3D model on: http://www.thingiverse.com/thing:706011 --- Android App/Wallet coming soon!'
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=XvkjrJfUNgQ'
 title: 'Bitcoin NFC tags, 3D printed'
-datePublished: '2016-02-26T00:53:52.439Z'
-dateModified: '2016-02-25T23:57:37.713Z'
+datePublished: '2016-02-26T10:13:17.515Z'
+dateModified: '2016-02-26T09:50:40.310Z'
 sourcePath: _posts/2016-02-26-bitcoin-nfc-tags-3d-printed.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
