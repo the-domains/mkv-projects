@@ -4,7 +4,7 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 00:54:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 00:54:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
@@ -12,6 +12,20 @@
             <link>urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b</link>
             <guid isPermaLink="false">b599945a-3d4f-444a-9642-49c9e070160f</guid>
             <pubDate>Fri, 26 Feb 2016 00:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin NFC tags, 3D printed]]></title>
+            <description><![CDATA[<article><h1>Bitcoin NFC tags, 3D printed</h1><p>See all the infos and get the 3D model on: http://www.thingiverse.com/thing:706011 --- Android App/Wallet coming soon!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25c764534b006c3f92d2d3b450288b92488ca65a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XvkjrJfUNgQ</link>
+            <guid isPermaLink="false">d5fc7975-af13-45ab-8adf-fc93add062d2</guid>
+            <pubDate>Fri, 26 Feb 2016 00:53:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ring OpenURI sample web app (Logbar Ring)]]></title>
+            <description><![CDATA[<article><h1>Ring OpenURI sample web app (Logbar Ring)</h1><p>Download and try the app code at https://github.com/makevoid/ring_open_uri Recorded with phone that was connected to the Ring</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39db1675643454c1f7b8ad3e8339d3449535646a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=M8YzFcuyemo</link>
+            <guid isPermaLink="false">848761de-77a3-4e49-91e1-9947ff640120</guid>
+            <pubDate>Fri, 26 Feb 2016 00:53:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BitNFC - NFC Bitcoin Wallet for Android]]></title>
@@ -61,20 +75,6 @@
             <link>https://github.com/bertani/insurETH</link>
             <guid isPermaLink="false">daaa95c6-aaf3-4850-b2a1-fe218cd53798</guid>
             <pubDate>Fri, 26 Feb 2016 00:34:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[makevoid/paperbank]]></title>
-            <description><![CDATA[<article><h1>makevoid/paperbank</h1><p>paperbank - Bitcoin Paper Key generator - using a thermal USB printer and a basic linux box (like a Rrasp. PI) - Paper Wallet Generator</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ea8e9fab01dab14244f8023720c46bf4a9b340.jpg"></article>]]></description>
-            <link>https://github.com/makevoid/paperbank</link>
-            <guid isPermaLink="false">d63074ec-a50a-44ee-90d7-983422d685b6</guid>
-            <pubDate>Fri, 26 Feb 2016 00:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PaperBank]]></title>
-            <description><![CDATA[<article><h1>PaperBank</h1><p>Create paper wallet easily. Powered by Raspberry PI, linux and a USB thermal printer. It supports: bitcoin, litecoin, dogecoin, namecoin, bip38 (password protected wallets), vanitygen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6eb042c06efbd4e39db6afdc101aea7f2a70d1b7.png"></article>]]></description>
-            <link>http://paperbank.it/#PaperBank</link>
-            <guid isPermaLink="false">8b268b68-1a77-4adb-a2dd-fbd3ee46f11b</guid>
-            <pubDate>Wed, 24 Feb 2016 00:12:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
