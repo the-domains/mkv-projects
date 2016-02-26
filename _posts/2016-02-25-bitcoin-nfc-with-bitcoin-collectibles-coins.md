@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-26T10:11:16.026Z'
-dateModified: '2016-02-26T10:11:01.941Z'
+datePublished: '2016-02-26T10:12:58.792Z'
+dateModified: '2016-02-26T10:12:26.324Z'
 author: []
 title: Bitcoin NFC with bitcoin collectibles coins
 sourcePath: _posts/2016-02-25-bitcoin-nfc-with-bitcoin-collectibles-coins.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # Bitcoin NFC with bitcoin collectibles coins
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9470f390180e03ecb29fa626cbe8e51e276f8ab9.png)
+![See also 3D Printed Coins](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9470f390180e03ecb29fa626cbe8e51e276f8ab9.png)
