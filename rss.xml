@@ -4,14 +4,21 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 00:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 00:46:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
             <description><![CDATA[<article><h1>Bitcoin NFC with bitcoin collectibles coins</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9470f390180e03ecb29fa626cbe8e51e276f8ab9.png"></article>]]></description>
-            <link>https://thegrid.ai/mkv-projects/bitcoin-nfc-with-bitcoin-collectibles-coins/index.html</link>
+            <link>urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b</link>
             <guid isPermaLink="false">b599945a-3d4f-444a-9642-49c9e070160f</guid>
-            <pubDate>Thu, 25 Feb 2016 22:05:39 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 00:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[makevoid/paperbank]]></title>
+            <description><![CDATA[<article><h1>makevoid/paperbank</h1><p>paperbank - Bitcoin Paper Key generator - using a thermal USB printer and a basic linux box (like a Rrasp. PI) - Paper Wallet Generator</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b70d5d6182da67dcc70309b12c26008262c353d.jpg"></article>]]></description>
+            <link>https://github.com/makevoid/paperbank</link>
+            <guid isPermaLink="false">d63074ec-a50a-44ee-90d7-983422d685b6</guid>
+            <pubDate>Fri, 26 Feb 2016 00:32:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PaperBank]]></title>
