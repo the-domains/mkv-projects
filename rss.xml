@@ -4,7 +4,7 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 00:54:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 00:54:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b</link>
             <guid isPermaLink="false">b599945a-3d4f-444a-9642-49c9e070160f</guid>
             <pubDate>Fri, 26 Feb 2016 00:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BitNFC - NFC Bitcoin Wallet for Android]]></title>
+            <description><![CDATA[<article><h1>BitNFC - NFC Bitcoin Wallet for Android</h1><p>BitNFC is an Android Bitcoin Wallet supporting NFC Download here: http://bitnfc.org The basic idea is that with BitNFC you can make avery NFC tag into a Bitcoin Wallet with just a tap! Video of the app: https://youtu.be/srE1fDB-dTY The project is open source on GitHub!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a40ff6dd586edc5106f35aaf69bd3f8bb849110.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=srE1fDB-dTY</link>
+            <guid isPermaLink="false">6d3fd581-4690-46c1-9b4d-6dd0cf16abd6</guid>
+            <pubDate>Fri, 26 Feb 2016 00:53:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PaperBank - A personal, offline Bitcoin Paper Wallet Generator]]></title>
@@ -68,13 +75,6 @@
             <link>http://paperbank.it/#PaperBank</link>
             <guid isPermaLink="false">8b268b68-1a77-4adb-a2dd-fbd3ee46f11b</guid>
             <pubDate>Wed, 24 Feb 2016 00:12:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bitnfc.org]]></title>
-            <description><![CDATA[<article><h1>bitnfc.org</h1><p>Bitcoin NFC mobile wallet, 100% open source</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aff240d326f1e42a474f0ceeef6edeb3b5f06212.jpg"></article>]]></description>
-            <link>http://bitnfc.org/</link>
-            <guid isPermaLink="false">5439c8c0-ad09-41ca-8c48-ae7a67cff92e</guid>
-            <pubDate>Fri, 26 Feb 2016 00:36:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
