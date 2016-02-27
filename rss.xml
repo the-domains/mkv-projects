@@ -4,7 +4,7 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 09:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 12:12:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
@@ -12,13 +12,6 @@
             <link>urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b</link>
             <guid isPermaLink="false">b599945a-3d4f-444a-9642-49c9e070160f</guid>
             <pubDate>Fri, 26 Feb 2016 21:36:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://www.thingiverse.com/makevoid/designs</p>]]></description>
-            <link>https://thegrid.ai/mkv-projects/7cd586b2-7621-48f1-8df1-676508006dd4/index.html</link>
-            <guid isPermaLink="false">7cd586b2-7621-48f1-8df1-676508006dd4</guid>
-            <pubDate>Sat, 27 Feb 2016 01:17:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3DM1 - RepRap 3D Printer by makevoid]]></title>
@@ -60,7 +53,7 @@
             <description><![CDATA[<article><h1>makevoid/solether</h1><p>solether - Solether website and project infos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea231fa3b502f6df3a69f455bc687ad69ebf9e84.png"></article>]]></description>
             <link>https://github.com/makevoid/solether</link>
             <guid isPermaLink="false">fdc7f962-7a07-44e2-984d-eac561e10286</guid>
-            <pubDate>Fri, 26 Feb 2016 09:47:16 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 09:35:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ImagesWallet]]></title>
