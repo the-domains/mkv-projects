@@ -4,7 +4,7 @@
         <description><![CDATA[mkv-projects]]></description>
         <link>https://thegrid.ai/mkv-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 21:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 01:18:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin NFC with bitcoin collectibles coins]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:38216d6b-f9fd-40be-9406-047c0cadea3b</link>
             <guid isPermaLink="false">b599945a-3d4f-444a-9642-49c9e070160f</guid>
             <pubDate>Fri, 26 Feb 2016 21:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electric Skateboard with in-wheel motors]]></title>
+            <description><![CDATA[<article><h1>Electric Skateboard with in-wheel motors</h1><p>Here's an Electric Skateboard Build from a in-wheel motor kit (ESC included and pre-programmed), step by sep.I'm currently Working on this build so check it later.Step by step testing: Fix esc with screws and use tape for the battery Fix battery as well :) Design and 3D print battery protection,</p><img src="http://cdn.instructables.com/F0K/DO24/IL4APJ8Q/F0KDO24IL4APJ8Q.RECT2100.jpg"></article>]]></description>
+            <link>http://www.instructables.com/id/Electric-Skateboard-With-In-wheel-Motors/</link>
+            <guid isPermaLink="false">08afc4e9-9fb3-4593-90b9-db571c2fcb62</guid>
+            <pubDate>Sat, 27 Feb 2016 01:16:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[bertani/insurETH]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=yFjw6WXUtZY</link>
             <guid isPermaLink="false">17748f4d-602d-4629-a11f-0544ec2af4f1</guid>
             <pubDate>Fri, 26 Feb 2016 00:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin NFC tags, 3D printed]]></title>
-            <description><![CDATA[<article><h1>Bitcoin NFC tags, 3D printed</h1><p>See all the infos and get the 3D model on: http://www.thingiverse.com/thing:706011 --- Android App/Wallet coming soon!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25c764534b006c3f92d2d3b450288b92488ca65a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=XvkjrJfUNgQ</link>
-            <guid isPermaLink="false">d5fc7975-af13-45ab-8adf-fc93add062d2</guid>
-            <pubDate>Fri, 26 Feb 2016 10:13:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
