@@ -2,6 +2,7 @@ name: mkv-projects
 favicon: null
 layout_spectrum: 0.09446640941314399
 typography_spectrum: 0.09387679025530815
+title: "makevoid's projects"
 cta:
   domain: null
   bucket: null
